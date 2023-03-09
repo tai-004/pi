@@ -31,3 +31,5 @@ humidity
 
 temperature
 
+link do firebase
+https://console.firebase.google.com/project/projled-111c9/database/projled-111c9-default-rtdb/data/~2Ftemperature?hl=pt-br
